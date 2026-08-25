@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+workspace/input/*
+workspace/output/*
+workspace/logs/*
+!workspace/input/.gitkeep
+!workspace/output/.gitkeep
+!workspace/logs/.gitkeep
+hr_agent_env/
